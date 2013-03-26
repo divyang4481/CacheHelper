@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CacheHelper", "CacheHelper.vcxproj", "{30E50C98-560F-4601-948E-DCCCDFB7B355}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CacheHelperTests", "CacheHelperTests\CacheHelperTests.vcxproj", "{9423C64D-8E2C-417C-A2D2-2153AB449BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|Win32.Build.0 = Debug|Win32
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|x64.ActiveCfg = Debug|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Debug|x64.Build.0 = Debug|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|Any CPU.ActiveCfg = Release|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|Mixed Platforms.Build.0 = Release|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|Win32.ActiveCfg = Release|Win32
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|Win32.Build.0 = Release|Win32
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|x64.ActiveCfg = Release|x64
+		{30E50C98-560F-4601-948E-DCCCDFB7B355}.Release|x64.Build.0 = Release|x64
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|Win32.Build.0 = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Debug|x64.ActiveCfg = Debug|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|Win32.ActiveCfg = Release|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|Win32.Build.0 = Release|Win32
+		{9423C64D-8E2C-417C-A2D2-2153AB449BB7}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
