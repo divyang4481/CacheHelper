@@ -50,5 +50,6 @@
       <Filter>Source Files</Filter>
     </None>
     <None Include="CacheHelper.ini" />
+    <None Include="Default.props" />
   </ItemGroup>
 </Project>
